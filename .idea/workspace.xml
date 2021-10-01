@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa9835b4-9c49-4652-a523-af2f78c44fbd" name="更改" comment="修改了一下输入提示" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yPIKW3DT2sZ9fNuXMF1aoIqjz5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../AndroidSDK" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.18435252" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDE\Project\ExperimentaProducts\bilibiliVideoTool" />
+      <recent name="D:\IDE\Project\ExperimentaProducts\bilibiliVideoTool\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDE\Project\ExperimentaProducts\bilibiliVideoTool" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Translate">
+    <configuration name="LrcAmalgamate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LrcAmalgamate" />
+      <module name="bilibiliVideoTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LrcTimeTag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lrc.LrcTimeTag" />
+      <module name="bilibiliVideoTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="bilibiliVideoTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Translate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Translate" />
+      <module name="bilibiliVideoTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LrcTimeTagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bilibiliVideoTool" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LrcTimeTagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Translate" />
+        <item itemvalue="应用程序.LrcAmalgamate" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.LrcTimeTag" />
+        <item itemvalue="JUnit.LrcTimeTagTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fa9835b4-9c49-4652-a523-af2f78c44fbd" name="更改" comment="" />
+      <created>1632146737133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632146737133</updated>
+      <workItem from="1632146738422" duration="9897000" />
+      <workItem from="1632156943855" duration="424000" />
+      <workItem from="1632157399164" duration="566000" />
+      <workItem from="1632176253559" duration="1245000" />
+      <workItem from="1632177528066" duration="522000" />
+      <workItem from="1632197763127" duration="1934000" />
+      <workItem from="1632205192953" duration="9638000" />
+      <workItem from="1632215546831" duration="1441000" />
+      <workItem from="1632233989201" duration="3491000" />
+      <workItem from="1632237636536" duration="10000" />
+      <workItem from="1632978196881" duration="748000" />
+      <workItem from="1632979862686" duration="165000" />
+      <workItem from="1632980077574" duration="3599000" />
+      <workItem from="1632986013645" duration="764000" />
+      <workItem from="1632988442185" duration="19611000" />
+      <workItem from="1633019324997" duration="516000" />
+      <workItem from="1633045463443" duration="6966000" />
+      <workItem from="1633059195383" duration="774000" />
+      <workItem from="1633060053353" duration="465000" />
+      <workItem from="1633060578902" duration="10000" />
+    </task>
+    <task id="LOCAL-00001" summary="满是bug的第一版">
+      <created>1632157045300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632157045300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="满是bug的第一版">
+      <created>1632157170796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632157170796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修复了标签格式不一致的bug">
+      <created>1632207501980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632207501980</updated>
+    </task>
+    <task id="LOCAL-00004" summary="写了一个时间标签类, 准备对LrcAmalgamate类进行重构">
+      <created>1632215302423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632215302423</updated>
+    </task>
+    <task id="LOCAL-00005" summary="写了一个时间标签类, 准备对LrcAmalgamate类进行重构">
+      <created>1632216885866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632216885866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="对LrcAmalgamate类进行了重构">
+      <created>1632236020639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632236020639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="写了一些测试代码">
+      <created>1632237334861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632237334861</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修复了一个时间计算的bug">
+      <created>1632980645099</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632980645099</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加了歌词翻译功能">
+      <created>1633019018700</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633019018701</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加了歌词翻译功能">
+      <created>1633019136719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1633019136719</updated>
+    </task>
+    <task id="LOCAL-00011" summary="重构">
+      <created>1633046446485</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633046446485</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改了一下输入提示">
+      <created>1633048636645</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633048636645</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改了一下输入提示">
+      <created>1633059550772</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633059550772</updated>
+    </task>
+    <task id="LOCAL-00014" summary="修改了一下输入提示">
+      <created>1633059556233</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633059556233</updated>
+    </task>
+    <task id="LOCAL-00015" summary="修改了一下输入提示">
+      <created>1633059636121</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633059636121</updated>
+    </task>
+    <task id="LOCAL-00016" summary="修改了一下输入提示">
+      <created>1633060126910</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1633060126910</updated>
+    </task>
+    <task id="LOCAL-00017" summary="修改了一下输入提示">
+      <created>1633060269253</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633060269253</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="满是bug的第一版" />
+    <MESSAGE value="修复的标签格式不一致的bug" />
+    <MESSAGE value="修复了标签格式不一致的bug" />
+    <MESSAGE value="写了一个时间标签类, 准备对LrcAmalgamate类进行重构" />
+    <MESSAGE value="对LrcAmalgamate类进行了重构" />
+    <MESSAGE value="写了一些测试代码" />
+    <MESSAGE value="修复了一个时间计算的bug" />
+    <MESSAGE value="添加了歌词翻译功能" />
+    <MESSAGE value="重构" />
+    <MESSAGE value="修改了一下输入提示" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了一下输入提示" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.time.DateTimeException" package="java.time" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="original" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
